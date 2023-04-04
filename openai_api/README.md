@@ -10,7 +10,7 @@ Best practices for instructing models may change from model version to version. 
 
 ## Finetune
 - Fine-tuning:  <a href="https://platform.openai.com/docs/guides/fine-tuning">Guide</a>
-- required some data setup (please see <ahref="https://github.com/acsweet/nlp_api_exploration/blob/main/openai_api/finetune_openai_api.ipynb">notebook</a> for additional information) OpenAI guide has some <a href="https://platform.openai.com/docs/guides/fine-tuning/example-notebooks">example notebooks</a> as well
+- required some data setup (please see <a href="https://github.com/acsweet/nlp_api_exploration/blob/main/openai_api/finetune_openai_api.ipynb">notebook</a> for additional information) OpenAI guide has some <a href="https://platform.openai.com/docs/guides/fine-tuning/example-notebooks">example notebooks</a> as well
 
 ### Whisper
 - Speech to text: <a href="https://platform.openai.com/docs/guides/speech-to-text">Guide</a>
