@@ -17,5 +17,5 @@ notebook
 widgetsnbextension
 ipywebrtc
 ipywidgets
+pandas
 ```
-`pandas` (for finetuning nb)
