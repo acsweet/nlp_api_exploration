@@ -1,4 +1,5 @@
 # OpenAI API
+- some examples are included using openai's python <a href="https://platform.openai.com/docs/api-reference">api</a>, and some using python's requests <a href="https://requests.readthedocs.io/en/latest/">library</a>
 
 ## Documentation and Reference
 - <a href="https://platform.openai.com/docs/introduction">Documentation</a>
