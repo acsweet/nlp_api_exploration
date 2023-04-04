@@ -10,12 +10,12 @@ python=3.10.9
 
 ### requirements (as needed)
 tested on `python=3.10.9`
-`
+```
 requests
 openai
 notebook
 widgetsnbextension
 ipywebrtc
 ipywidgets
-`
+```
 `pandas` (for finetuning nb)
